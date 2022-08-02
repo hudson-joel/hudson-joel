@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hudson-joel
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning html,css & javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning html,css & python
+- 💞️ I’m seeking verious opportunities  through open source
 - 📫 How to reach me hudsonjoela55@gmail.com
 
 <!---
