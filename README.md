@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hudson-joel
-- 👀 I’m interested in software emgineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning html,css & javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hudsonjoela55@gmail.com
